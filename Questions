@@ -25,4 +25,7 @@ Q2 The authentacation used by hippie when querying with -a or --auth is
 }
 Q3 The main difference is session-based authentication of the connection stores the authentication details. 
 The session method makes the server store most of the details, while in the case of the token-based one the client stores them.
+Token-based authentication is more secure.
+Tokens essentially act as an extra layer of security and serve as a temporary stand-in for the user's password. Most importantly, tokens are machine-generated. 
+Encrypted, machine-generated code is significantly more secure than any password you might create yourself.
 
