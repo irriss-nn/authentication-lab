@@ -11,4 +11,16 @@ Q1 : The authentication scheme used by default is
     "owner": "miaomiaomiaoxiaomi"
 }
 
-Q2
+Q2 The authentacation used by hippie when querying with -a or --auth is
+{
+    "code": "print(123)",
+    "highlight": "http://127.0.0.1:8000/1/",
+    "id": 1,
+    "language": "python",
+    "linenos": false,
+    "owner": "miaomiaomiaoxiaomi",
+    "style": "friendly",
+    "title": "",
+    "url": "http://127.0.0.1:8000/api/snippets/1/"
+}
+
