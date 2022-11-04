@@ -1,1 +1,14 @@
+Q1 : The authentication scheme used by default is 
+{
+    "url": "http://localhost:8000/api/snippets/2/",
+    "id": 2,
+    "highlight": "http://localhost:8000/2/",
+    "title": "mad tong",
+    "code": "print('pretty Iris')",
+    "linenos": false,
+    "language": "abap",
+    "style": "abap",
+    "owner": "miaomiaomiaoxiaomi"
+}
 
+Q2
