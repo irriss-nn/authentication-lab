@@ -23,4 +23,6 @@ Q2 The authentacation used by hippie when querying with -a or --auth is
     "title": "",
     "url": "http://127.0.0.1:8000/api/snippets/1/"
 }
+Q3 The main difference is session-based authentication of the connection stores the authentication details. 
+The session method makes the server store most of the details, while in the case of the token-based one the client stores them.
 
